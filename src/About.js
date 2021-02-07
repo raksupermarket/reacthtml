@@ -17,7 +17,7 @@ const About = () => (
           className="rounded shadow"
           src="https://www.youtube.com/embed/NLxDbnyQ4r4"
           title="Mesin kasir point of sale"
-          allowfullscreen
+          allowFullScreen
         />
       </div>
     </div>
