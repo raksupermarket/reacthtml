@@ -1,7 +1,7 @@
 import React from "react";
 
 const Resto = () => (
-  <div class="row">
+  <div className="row">
     <h1 className="text-center">
       <strong>
         <a href="/" className="text-dark">
