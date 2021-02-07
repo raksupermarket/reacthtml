@@ -2,7 +2,7 @@ import React from "react";
 
 const Resto = () => (
   <div class="row">
-    <h1 class="text-center">
+    <h1 className="text-center">
       <strong>
         <a href="/" className="text-dark">
           Restoran Cafe Rumah makan
